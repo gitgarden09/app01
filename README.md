@@ -3,8 +3,8 @@ just learn git
 
 master 01
 
-beijing01
+master 02
 
-beijing02
+master 03
 
-beijing03 
+master 04
